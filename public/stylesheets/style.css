@@ -1,0 +1,17 @@
+.card {
+  margin: 20px 20px;
+  min-height: 575px;
+}
+
+.card .card-text {
+  columns: #7f7f7f;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.card img {
+  padding: 10px 18px;
+}
